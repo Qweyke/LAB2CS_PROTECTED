@@ -1,0 +1,16 @@
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\obj\Debug\net5.0\LAB2CS_red.csproj.AssemblyReference.cache
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\obj\Debug\net5.0\LAB2CS_red.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\obj\Debug\net5.0\LAB2CS_red.AssemblyInfoInputs.cache
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\obj\Debug\net5.0\LAB2CS_red.AssemblyInfo.cs
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\obj\Debug\net5.0\LAB2CS_red.csproj.CoreCompileInputs.cache
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\bin\Debug\net5.0\LAB2CS_red.exe
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\bin\Debug\net5.0\LAB2CS_red.deps.json
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\bin\Debug\net5.0\LAB2CS_red.runtimeconfig.json
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\bin\Debug\net5.0\LAB2CS_red.runtimeconfig.dev.json
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\bin\Debug\net5.0\LAB2CS_red.dll
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\bin\Debug\net5.0\ref\LAB2CS_red.dll
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\bin\Debug\net5.0\LAB2CS_red.pdb
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\obj\Debug\net5.0\LAB2CS_red.dll
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\obj\Debug\net5.0\ref\LAB2CS_red.dll
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\obj\Debug\net5.0\LAB2CS_red.pdb
+C:\Users\user.AD\Source\Repos\Lab2CS\LAB2CS_red\obj\Debug\net5.0\LAB2CS_red.genruntimeconfig.cache
